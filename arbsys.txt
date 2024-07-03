@@ -6,3 +6,27 @@
 <device type='pci' bus='0' device='0' function='0'>
 <device>3e30</device>
 <vendor>8086</vendor>
+<config>
+<bytes start='00h' stop='0fh'>86 80 30 3e 06 00 90 20 0d 00 00 06 00 00 00 00</bytes>
+<bytes start='10h' stop='1fh' repeat='true'>00</bytes>
+<bytes start='20h' stop='2fh'>00 00 00 00 00 00 00 00 00 00 00 00 aa 17 33 31</bytes>
+<bytes start='30h' stop='3fh'>00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 00</bytes>
+<bytes start='40h' stop='4fh'>01 90 d1 fe 00 00 00 00 01 00 d1 fe 00 00 00 00</bytes>
+<bytes start='50h' stop='5fh'>c1 01 00 00 31 80 00 00 47 00 70 9f 01 00 00 9c</bytes>
+<bytes start='60h' stop='6fh'>03 00 00 f0 00 00 00 00 01 80 d1 fe 00 00 00 00</bytes>
+<bytes start='70h' stop='7fh'>00 00 00 fc 07 00 00 00 00 0c 00 fc 7f 00 00 00</bytes>
+<bytes start='80h' stop='8fh'>31 33 33 33 33 00 00 00 1a 00 00 00 00 00 00 00</bytes>
+<bytes start='90h' stop='9fh'>01 00 00 fc 07 00 00 00 01 00 70 5c 08 00 00 00</bytes>
+<bytes start='a0h' stop='afh'>01 00 00 00 08 00 00 00 01 00 80 5c 08 00 00 00</bytes>
+<bytes start='b0h' stop='bfh'>01 00 80 9d 01 00 00 9d 01 00 00 9c 01 00 80 9f</bytes>
+<bytes start='c0h' stop='dfh' repeat='true'>00</bytes>
+<bytes start='e0h' stop='efh'>09 00 10 01 d1 20 01 62 c8 00 04 84 00 c0 02 00</bytes>
+<bytes start='f0h' stop='ffh'>00 00 00 00 c8 0f 0d 00 00 00 00 00 00 00 00 00</bytes>
+<bytes start='100h' stop='fffh' repeat='true'>ff</bytes>
+<bar id='0'>00 00 00 00</bar>
+<bar id='1'>00 00 00 00</bar>
+<bar id='2'>00 00 00 00</bar>
+<bar id='3'>00 00 00 00</bar>
+<bar id='4'>00 00 00 00</bar>
+<bar id='5'>00 00 00 00</bar>
+</config>
