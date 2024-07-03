@@ -997,3 +997,74 @@
 <bytes start='350h' stop='353h' name='53' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='350h'>b8 02 e0 fe</bytes>
 <bytes start='354h' stop='357h'>00 00 00 00</bytes>
 <bytes start='358h' stop='35bh'>00 00 00 00</bytes>
+<bytes start='35ch' stop='35fh'>00 00 00 00</bytes>
+<bytes start='360h' stop='363h' name='54' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='360h'>b8 02 e0 fe</bytes>
+<bytes start='364h' stop='367h'>00 00 00 00</bytes>
+<bytes start='368h' stop='36bh'>00 00 00 00</bytes>
+<bytes start='36ch' stop='36fh'>00 00 00 00</bytes>
+<bytes start='370h' stop='373h' name='55' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='370h'>b8 02 e0 fe</bytes>
+<bytes start='374h' stop='377h'>00 00 00 00</bytes>
+<bytes start='378h' stop='37bh'>00 00 00 00</bytes>
+<bytes start='37ch' stop='37fh'>00 00 00 00</bytes>
+<bytes start='380h' stop='383h' name='56' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='380h'>b8 02 e0 fe</bytes>
+<bytes start='384h' stop='387h'>00 00 00 00</bytes>
+<bytes start='388h' stop='38bh'>00 00 00 00</bytes>
+<bytes start='38ch' stop='38fh'>00 00 00 00</bytes>
+<bytes start='390h' stop='393h' name='57' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='390h'>b8 02 e0 fe</bytes>
+<bytes start='394h' stop='397h'>00 00 00 00</bytes>
+<bytes start='398h' stop='39bh'>00 00 00 00</bytes>
+<bytes start='39ch' stop='39fh'>00 00 00 00</bytes>
+<bytes start='3a0h' stop='3a3h' name='58' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='3a0h'>b8 02 e0 fe</bytes>
+<bytes start='3a4h' stop='3a7h'>00 00 00 00</bytes>
+<bytes start='3a8h' stop='3abh'>00 00 00 00</bytes>
+<bytes start='3ach' stop='3afh'>00 00 00 00</bytes>
+<bytes start='3b0h' stop='3b3h' name='59' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='3b0h'>b8 02 e0 fe</bytes>
+<bytes start='3b4h' stop='3b7h'>00 00 00 00</bytes>
+<bytes start='3b8h' stop='3bbh'>00 00 00 00</bytes>
+<bytes start='3bch' stop='3bfh'>00 00 00 00</bytes>
+<bytes start='3c0h' stop='3c3h' name='60' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='3c0h'>b8 02 e0 fe</bytes>
+<bytes start='3c4h' stop='3c7h'>00 00 00 00</bytes>
+<bytes start='3c8h' stop='3cbh'>00 00 00 00</bytes>
+<bytes start='3cch' stop='3cfh'>00 00 00 00</bytes>
+<bytes start='3d0h' stop='3d3h' name='61' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='3d0h'>b8 02 e0 fe</bytes>
+<bytes start='3d4h' stop='3d7h'>00 00 00 00</bytes>
+<bytes start='3d8h' stop='3dbh'>00 00 00 00</bytes>
+<bytes start='3dch' stop='3dfh'>00 00 00 00</bytes>
+<bytes start='3e0h' stop='3e3h' name='62' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='3e0h'>b8 02 e0 fe</bytes>
+<bytes start='3e4h' stop='3e7h'>00 00 00 00</bytes>
+<bytes start='3e8h' stop='3ebh'>00 00 00 00</bytes>
+<bytes start='3ech' stop='3efh'>00 00 00 00</bytes>
+<bytes start='3f0h' stop='3f3h' name='63' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='3f0h'>b8 02 e0 fe</bytes>
+<bytes start='3f4h' stop='3f7h'>00 00 00 00</bytes>
+<bytes start='3f8h' stop='3fbh'>00 00 00 00</bytes>
+<bytes start='3fch' stop='3ffh'>00 00 00 00</bytes>
+<bytes start='400h' stop='403h' name='64' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='400h'>b8 02 e0 fe</bytes>
+<bytes start='404h' stop='407h'>00 00 00 00</bytes>
+<bytes start='408h' stop='40bh'>00 00 00 00</bytes>
+<bytes start='40ch' stop='40fh'>00 00 00 00</bytes>
+</memoryio>
+<memoryio decode="${memory.name} (1:0:0)" decode-file="bd4239bfcf374c2b4c770fdabfa5d848.arbdec" decode-path="{appDir}/{encryptedMindShareDecodePath}" decodeId="msix_pba" description="MSI-X Pending Bit Array: MMIO: holds the pending bits for each interrupt" displayGroupId="" id="15b7_5006_1:0:0!memory.capability.11.1" is-contiguous="false" name="PCI (1:0:0) MSI-X PBA" scan-address="00000000b2204000" scan-subtype="capability.11" scan-type="memory">
+<timestamp>1719996177940</timestamp>
+<bytes start='00h' stop='03h' name='0' description='' decodeId='pba_Table_Registers' version='_unknown_' offset='0h'>00 00 00 00</bytes>
+<bytes start='04h' stop='07h' name='1' description='' decodeId='pba_Table_Registers' version='_unknown_' offset='4h'>00 00 00 00</bytes>
+<bytes start='08h' stop='0bh' name='2' description='' decodeId='pba_Table_Registers' version='_unknown_' offset='8h'>00 00 00 00</bytes>
+</memoryio>
+<memoryio decode="${memory.name} (4:0:0)" decode-file="bd4239bfcf374c2b4c770fdabfa5d848.arbdec" decode-path="{appDir}/{encryptedMindShareDecodePath}" decodeId="msix_table" description="MSI-X Table: MMIO: holds the interrupt vectors, target addresses and control info" displayGroupId="" id="10ec_8168_4:0:0!memory.capability.11.0" is-contiguous="false" name="PCI (4:0:0) MSI-X Interrupt Table" scan-address="00000000b00fc000" scan-subtype="capability.11" scan-type="memory">
+<timestamp>1719996177940</timestamp>
+<bytes start='00h' stop='03h' name='0' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='0h'>b8 03 e0 fe</bytes>
+<bytes start='04h' stop='07h'>00 00 00 00</bytes>
+<bytes start='08h' stop='0bh'>00 00 00 00</bytes>
+<bytes start='0ch' stop='0fh'>00 00 00 00</bytes>
+<bytes start='10h' stop='13h' name='1' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='10h'>b8 03 e0 fe</bytes>
+<bytes start='14h' stop='17h'>00 00 00 00</bytes>
+<bytes start='18h' stop='1bh'>00 00 00 00</bytes>
+<bytes start='1ch' stop='1fh'>00 00 00 00</bytes>
+<bytes start='20h' stop='23h' name='2' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='20h'>b8 03 e0 fe</bytes>
+<bytes start='24h' stop='27h'>00 00 00 00</bytes>
+<bytes start='28h' stop='2bh'>00 00 00 00</bytes>
+<bytes start='2ch' stop='2fh'>00 00 00 00</bytes>
+<bytes start='30h' stop='33h' name='3' description='' decodeId='msix_Table_Registers' version='_unknown_' offset='30h'>b8 03 e0 fe</bytes>
+<bytes start='34h' stop='37h'>00 00 00 00</bytes>
+<bytes start='38h' stop='3bh'>00 00 00 00</bytes>
+<bytes start='3ch' stop='3fh'>00 00 00 00</bytes>
+</memoryio>
