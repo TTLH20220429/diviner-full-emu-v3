@@ -1804,3 +1804,27 @@
 <data reg='ecx'>00 00 00 00</data>
 <data reg='edx'>00 00 00 00</data>
 </leaf>
+<leaf eax="10h" ecx="1">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="10h" ecx="2">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="10h" ecx="3">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="11h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
