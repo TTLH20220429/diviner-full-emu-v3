@@ -1501,3 +1501,228 @@
 <data reg='ebx'>00 00 00 00</data>
 <data reg='ecx'>00 00 00 00</data>
 <data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="fh" ecx="0">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="fh" ecx="1">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="10h" ecx="0">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="10h" ecx="1">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="10h" ecx="2">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="10h" ecx="3">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="11h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="12h" ecx="0">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="12h" ecx="1">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="13h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="14h" ecx="0">
+<data reg='eax'>00 00 00 01</data>
+<data reg='ebx'>00 00 00 0F</data>
+<data reg='ecx'>00 00 00 07</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="14h" ecx="1">
+<data reg='eax'>02 49 00 02</data>
+<data reg='ebx'>00 3F 3F FF</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="15h" ecx="">
+<data reg='eax'>00 00 00 02</data>
+<data reg='ebx'>00 00 00 FA</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="16h" ecx="">
+<data reg='eax'>00 00 0B B8</data>
+<data reg='ebx'>00 00 12 5C</data>
+<data reg='ecx'>00 00 00 64</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="80000000h" ecx="">
+<data reg='eax'>80 00 00 08</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="80000001h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 01 21</data>
+<data reg='edx'>2C 10 08 00</data>
+</leaf>
+<leaf eax="80000002h" ecx="">
+<data reg='eax'>65 74 6E 49</data>
+<data reg='ebx'>29 52 28 6C</data>
+<data reg='ecx'>72 6F 43 20</data>
+<data reg='edx'>4D 54 28 65</data>
+</leaf>
+<leaf eax="80000003h" ecx="">
+<data reg='eax'>37 69 20 29</data>
+<data reg='ebx'>30 37 39 2D</data>
+<data reg='ecx'>50 43 20 30</data>
+<data reg='edx'>20 40 20 55</data>
+</leaf>
+<leaf eax="80000004h" ecx="">
+<data reg='eax'>30 30 2E 33</data>
+<data reg='ebx'>00 7A 48 47</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="80000005h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="80000006h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>01 00 60 40</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="80000007h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 01 00</data>
+</leaf>
+<leaf eax="80000008h" ecx="">
+<data reg='eax'>00 00 30 27</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+</cpu>
+<cpu id="2" proc="GenuineIntel" family="06h" model="9Eh">
+<leaf eax="0h" ecx="">
+<data reg='eax'>00 00 00 16</data>
+<data reg='ebx'>75 6E 65 47</data>
+<data reg='ecx'>6C 65 74 6E</data>
+<data reg='edx'>49 65 6E 69</data>
+</leaf>
+<leaf eax="1h" ecx="">
+<data reg='eax'>00 09 06 ED</data>
+<data reg='ebx'>04 10 08 00</data>
+<data reg='ecx'>7F FA FB FF</data>
+<data reg='edx'>BF EB FB FF</data>
+</leaf>
+<leaf eax="2h" ecx="" set="0">
+<data reg='eax'>76 03 63 01</data>
+<data reg='ebx'>00 F0 B6 FF</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 C3 00 00</data>
+</leaf>
+<leaf eax="3h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="4h" ecx="0">
+<data reg='eax'>1C 00 41 21</data>
+<data reg='ebx'>01 C0 00 3F</data>
+<data reg='ecx'>00 00 00 3F</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="4h" ecx="1">
+<data reg='eax'>1C 00 41 22</data>
+<data reg='ebx'>01 C0 00 3F</data>
+<data reg='ecx'>00 00 00 3F</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="4h" ecx="2">
+<data reg='eax'>1C 00 41 43</data>
+<data reg='ebx'>00 C0 00 3F</data>
+<data reg='ecx'>00 00 03 FF</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="4h" ecx="3">
+<data reg='eax'>1C 03 C1 63</data>
+<data reg='ebx'>02 C0 00 3F</data>
+<data reg='ecx'>00 00 3F FF</data>
+<data reg='edx'>00 00 00 06</data>
+</leaf>
+<leaf eax="5h" ecx="">
+<data reg='eax'>00 00 00 40</data>
+<data reg='ebx'>00 00 00 40</data>
+<data reg='ecx'>00 00 00 03</data>
+<data reg='edx'>11 14 21 20</data>
+</leaf>
+<leaf eax="6h" ecx="">
+<data reg='eax'>00 00 27 F7</data>
+<data reg='ebx'>00 00 00 02</data>
+<data reg='ecx'>00 00 00 09</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="7h" ecx="0">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>02 9C 67 AF</data>
+<data reg='ecx'>40 00 00 00</data>
+<data reg='edx'>BC 00 06 00</data>
+</leaf>
+<leaf eax="8h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="9h" ecx="">
+<data reg='eax'>00 00 00 00</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 00 00</data>
+</leaf>
+<leaf eax="ah" ecx="">
+<data reg='eax'>07 30 08 04</data>
+<data reg='ebx'>00 00 00 00</data>
+<data reg='ecx'>00 00 00 00</data>
+<data reg='edx'>00 00 06 03</data>
+</leaf>
