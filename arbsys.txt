@@ -1,1 +1,8 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<system type='x86' version='1.0'>
+<pci>
+<timestamp>1719996177923</timestamp>
+<method type='used MMCfg:' address='f0000000' busRange='0-127'></method>
+<device type='pci' bus='0' device='0' function='0'>
+<device>3e30</device>
+<vendor>8086</vendor>
